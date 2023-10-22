@@ -58,3 +58,12 @@ coverage.xml
 *.njsproj
 *.sln
 *.sw?
+.vscode/
+
+*~
+*.bak
+*.swp
+*.db
+*.log
+logs/
+.env
